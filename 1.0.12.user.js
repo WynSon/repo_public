@@ -9,7 +9,7 @@
 // @include     http://itest.actvn.edu.vn/*
 // @include     http://anonymouseykh.github.io/*
 // @include     http://118.70.194.8:8080/*
-// @version     1.0.11
+// @version     1.0.12
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @run-at      document-end
 // ==/UserScript==
